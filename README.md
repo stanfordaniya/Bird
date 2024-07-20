@@ -44,5 +44,5 @@ Ensure an easily structured application that can be utilized by anyone regardles
 <img src="images/DeployKeylogger.png" alt="Example Five" width="800">
 
 ### Example Six:
-<img src="images/Quit.png" alt="Example Six" width="800">
+<img src="images/QUIT.png" alt="Example Six" width="800">
 
