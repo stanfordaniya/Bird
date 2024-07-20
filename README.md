@@ -32,7 +32,7 @@ Ensure an easily structured application that can be utilized by anyone regardles
 <img src="images/NetworkSniffer.png" alt="Example One" width="400">
 
 ### Example Two:
-<img src="images/PortScanner.png" alt="Example Two" width="800">
+<img src="images/PortScanner.png" alt="Example Two" width="400">
 
 ### Example Three:
 <img src="images/PasswordCracker.png" alt="Example Three" width="400">
