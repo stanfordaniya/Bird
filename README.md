@@ -29,20 +29,20 @@ Ensure an easily structured application that can be utilized by anyone regardles
 
 ## Screenshots
 ### Example One:
-<img src="images/NetworkSniffer.png" alt="Example One" width="800">
+<img src="images/NetworkSniffer.png" alt="Example One" width="400">
 
 ### Example Two:
 <img src="images/PortScanner.png" alt="Example Two" width="800">
 
 ### Example Three:
-<img src="images/PasswordCracker.png" alt="Example Three" width="800">
+<img src="images/PasswordCracker.png" alt="Example Three" width="400">
 
 ### Example Four:
-<img src="images/Keylogger.png" alt="Example Four" width="800">
+<img src="images/Keylogger.png" alt="Example Four" width="400">
 
 ### Example Five:
-<img src="images/DeployKeylogger.png" alt="Example Five" width="800">
+<img src="images/DeployKeylogger.png" alt="Example Five" width="400">
 
 ### Example Six:
-<img src="images/QUIT.png" alt="Example Six" width="800">
+<img src="images/QUIT.png" alt="Example Six" width="400">
 
